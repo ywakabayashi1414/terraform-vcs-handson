@@ -9,3 +9,4 @@ resource "aws_instance" "example" {
     Name = "handson-{ご自身のお名前}-instance-day2"
   }
 }
+
